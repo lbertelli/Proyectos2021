@@ -1,5 +1,9 @@
 Esta es mi historia
 
+naci en Argentina, el 21 de mayo de 1988
+
 empece programación con 32 años
 
 aprobe mi primer curso el día 26 de marzo 2021
+
+AGREGO LINEA DE PRUEBA DE CAMBIOS     
