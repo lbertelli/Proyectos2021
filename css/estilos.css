@@ -4,6 +4,16 @@ body
     text-align: left;
     font-family: Courier;
 }
+
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(o,o,o,o.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
 #container
 {
     width: 70%;
